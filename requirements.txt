@@ -1,0 +1,6 @@
+Flask
+Redis
+gevent
+requests
+Pillow
+numpy
